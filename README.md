@@ -13,3 +13,9 @@ This is source for DTA *1.2*. All other versions are lost to time as far as I ca
 
 No
 
+## License
+
+I am officially declaring this game as **Public Domain**. Do literally whatever you want.
+
+(See LICENSE for info)
+
